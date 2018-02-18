@@ -1,1 +1,1 @@
-# course-api
+# io.javabrains.springbootstarter.course-api
